@@ -1,1 +1,1 @@
-# mp-macos-releases
+# Desktop Releases for Windows and MacOS
